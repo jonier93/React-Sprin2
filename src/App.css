@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.blockBarra {
+  background-color: black;
+}
+
+button {
+  background-color: black;
+  color: white;
+  font-size: 30px;
+  padding: 1%;
+}
